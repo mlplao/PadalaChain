@@ -1,3 +1,6 @@
+https://stellar.expert/explorer/testnet/tx/a5adc223040a77c4b3724544fb7b14ae407ff34ac266a2ed44a0abd6fc800afa
+<img width="1527" height="665" alt="stellarshit" src="https://github.com/user-attachments/assets/2cd92962-4395-43fc-af31-f78f0a6bdfe2" />
+Contract ID: CAOLVL3L3Z6KXKQU6UIXBC6R7MSDFTVAOTDCW7TSJN5LT64E7AQRTCBM
 # PadalaChain
 Instant, near-zero-fee remittances for Filipino overseas workers via Stellar.
 
